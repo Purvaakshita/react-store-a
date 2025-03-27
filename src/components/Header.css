@@ -1,0 +1,10 @@
+.App-Header-Row{
+    display: flex;
+    justify-content: space-between;
+    background-color: orange;
+}
+
+.App-Header-Link {
+    margin: 5px;
+    font-size: 20px;
+}
